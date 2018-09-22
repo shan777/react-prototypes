@@ -1,0 +1,9 @@
+.scrapbook-image {
+    /* margin: 5%; */
+    width: 20%;
+    border: 10px solid #fff;
+    position: absolute;
+}
+body {
+    height: 100%;
+}
