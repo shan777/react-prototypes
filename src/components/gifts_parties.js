@@ -1,0 +1,11 @@
+import React from 'react';
+
+
+export default props => {
+    return(
+        <div>
+            <h1>Gifts &amp; Parties</h1>
+            <p>lorem ipsum bla bla</p>
+        </div>
+    );
+}
